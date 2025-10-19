@@ -45,16 +45,3 @@ I am a Frontend Developer from Russia.
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="80" height="80"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="80" height="80"/>&nbsp;
 </div>
-
----
-
-### In study:
-<div>
-  ---
-</div>
-
----
-
-### My Stats:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crewch&theme=react)](https://github.com/anuraghazra/github-readme-stats)
