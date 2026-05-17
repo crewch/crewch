@@ -32,7 +32,6 @@ I am a Frontend Developer from Russia.
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="80" height="80"/>&nbsp;
   <img src="images/Socketio.svg" title="Socket.IO" alt="Socket.IO" width="80" height="80"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="80" height="80"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/materialui/materialui-original.svg" title="MUI" alt="MUI" width="80" height="80"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="80" height="80"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="80" height="80"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/yarn/yarn-original.svg" title="Yarn" alt="Yarn" width="80" height="80"/>&nbsp;
